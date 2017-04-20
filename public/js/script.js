@@ -4,7 +4,7 @@ $(window).click(function(e) {
         toggleAllPassword();
     }
 });
-
+//test
 $('.btn-password').click(function(){
     var divId = this.id.split('-');
     toggleAllPassword();
